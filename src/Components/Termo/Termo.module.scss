@@ -1,0 +1,21 @@
+@import '@/styles/variables.scss';
+@import '@/styles/mixins.scss';
+
+.header {
+  background: radial-gradient($lightPrimary, $primary);
+  min-height: 15rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin-bottom: 2rem;
+  overflow-x: clip;
+}
+
+.content2 {
+  @include max-width;
+  padding: 8rem;
+  gap: 2rem;
+  max-height: 48rem;
+  scroll-margin-top: 10rem;
+}

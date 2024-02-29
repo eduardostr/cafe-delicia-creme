@@ -1,0 +1,42 @@
+@import '@/styles/variables.scss';
+@import '@/styles/mixins.scss';
+
+.footer {
+  background-color: $primary;
+  padding: 1rem;
+  padding-bottom: 1rem;
+
+  @include device(notebook) {
+    padding: 6rem 2rem;
+    padding-bottom: 1rem;
+  }
+
+  @include device(tablet) {
+    padding: 6rem 1rem;
+    padding-bottom: 1rem;
+  }
+
+  a {
+    display: flex;
+    text-align: center;
+    color: $mediumSecondary;
+    opacity: 2.0;
+    justify-content: space-between;
+  }
+
+  .content {
+    @include max-width;
+    display: flex;
+    justify-content: space-between;
+    gap: 6rem;
+    margin-bottom: 2rem;
+
+    @include device(notebook) {
+      flex-direction: column;
+      gap: 4rem;
+      align-items: center;
+      max-width: 60rem;
+      margin-bottom: 4rem;
+    }
+  }
+}
