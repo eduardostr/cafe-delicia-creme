@@ -16,12 +16,11 @@ export default function Termo() {
         <br />
         <p>
           <span>
-            Ao acessar ao site <a href='cafe-delicia-creme.vercel.app'>Café Delícia Creme</a>, concorda em
-            cumprir estes termos de serviço, todas as leis e regulamentos aplicáveis ​​e concorda
-            que é responsável pelo cumprimento de todas as leis locais aplicáveis. Se você não
-            concordar com algum desses termos, está proibido de usar ou acessar este site. Os
-            materiais contidos neste site são protegidos pelas leis de direitos autorais e marcas
-            comerciais aplicáveis.
+            Ao acessar ao site Café Delícia Creme, concorda em cumprir estes termos de serviço,
+            todas as leis e regulamentos aplicáveis e concorda que é responsável pelo cumprimento de
+            todas as leis locais aplicáveis. Se você não concordar com algum desses termos, está
+            proibido de usar ou acessar este site. Os materiais contidos neste site são protegidos
+            pelas leis de direitos autorais e marcas comerciais aplicáveis.
           </span>
           <h2>
             <br />
@@ -30,9 +29,9 @@ export default function Termo() {
           <p>
             <span>
               <br />É concedida permissão para baixar temporariamente uma cópia dos materiais
-              (informações ou software) no site Café Delícia Creme, apenas para visualização transitória
-              pessoal e não comercial. Esta é a concessão de uma licença, não uma transferência de
-              título e, sob esta licença, você não pode:
+              (informações ou software) no site Café Delícia Creme, apenas para visualização
+              transitória pessoal e não comercial. Esta é a concessão de uma licença, não uma
+              transferência de título e, sob esta licença, você não pode:
             </span>
           </p>
           <br />
@@ -69,9 +68,9 @@ export default function Termo() {
         <p>
           <span>
             Esta licença será automaticamente rescindida se você violar alguma dessas restrições e
-            poderá ser rescindida por Café Delícia Creme a qualquer momento. Ao encerrar a visualização
-            desses materiais ou após o término desta licença, você deve apagar todos os materiais
-            baixados em sua posse, seja em formato eletrónico ou impresso.
+            poderá ser rescindida por Café Delícia Creme a qualquer momento. Ao encerrar a
+            visualização desses materiais ou após o término desta licença, você deve apagar todos os
+            materiais baixados em sua posse, seja em formato eletrónico ou impresso.
           </span>
         </p>
         <br />
@@ -82,10 +81,10 @@ export default function Termo() {
         <ol style={{ marginLeft: '40px' }}>
           <li>
             <span>
-              Os materiais no site da Café Delícia Creme são fornecidos 'como estão'. Café Delícia Creme não
-              oferece garantias, expressas ou implícitas, e, por este meio, isenta e nega todas as
-              outras garantias, incluindo, sem limitação, garantias implícitas ou condições de
-              comercialização, adequação a um fim específico ou não violação de propriedade
+              Os materiais no site da Café Delícia Creme são fornecidos 'como estão'. Café Delícia
+              Creme não oferece garantias, expressas ou implícitas, e, por este meio, isenta e nega
+              todas as outras garantias, incluindo, sem limitação, garantias implícitas ou condições
+              de comercialização, adequação a um fim específico ou não violação de propriedade
               intelectual ou outra violação de direitos.&nbsp;
             </span>
           </li>
@@ -105,14 +104,14 @@ export default function Termo() {
         <br />
         <p>
           <span>
-            Em nenhum caso o Café Delícia Creme ou seus fornecedores serão responsáveis ​​por quaisquer
-            danos (incluindo, sem limitação, danos por perda de dados ou lucro ou devido a
+            Em nenhum caso o Café Delícia Creme ou seus fornecedores serão responsáveis ​​por
+            quaisquer danos (incluindo, sem limitação, danos por perda de dados ou lucro ou devido a
             interrupção dos negócios) decorrentes do uso ou da incapacidade de usar os materiais em
-            Café Delícia Creme, mesmo que Café Delícia Creme ou um representante autorizado da Café Delícia Creme
-            tenha sido notificado oralmente ou por escrito da possibilidade de tais danos. Como
-            algumas jurisdições não permitem limitações em garantias implícitas, ou limitações de
-            responsabilidade por danos conseqüentes ou incidentais, essas limitações podem não se
-            aplicar a você.
+            Café Delícia Creme, mesmo que Café Delícia Creme ou um representante autorizado da Café
+            Delícia Creme tenha sido notificado oralmente ou por escrito da possibilidade de tais
+            danos. Como algumas jurisdições não permitem limitações em garantias implícitas, ou
+            limitações de responsabilidade por danos conseqüentes ou incidentais, essas limitações
+            podem não se aplicar a você.
           </span>
         </p>
         <br />
@@ -122,11 +121,11 @@ export default function Termo() {
         <br />
         <p>
           <span>
-            Os materiais exibidos no site da Café Delícia Creme podem incluir erros técnicos, tipográficos
-            ou fotográficos. Café Delícia Creme não garante que qualquer material em seu site seja
-            preciso, completo ou atual. Café Delícia Creme pode fazer alterações nos materiais contidos em
-            seu site a qualquer momento, sem aviso prévio. No entanto, Café Delícia Creme não se
-            compromete a atualizar os materiais.
+            Os materiais exibidos no site da Café Delícia Creme podem incluir erros técnicos,
+            tipográficos ou fotográficos. Café Delícia Creme não garante que qualquer material em
+            seu site seja preciso, completo ou atual. Café Delícia Creme pode fazer alterações nos
+            materiais contidos em seu site a qualquer momento, sem aviso prévio. No entanto, Café
+            Delícia Creme não se compromete a atualizar os materiais.
           </span>
         </p>
         <br />
@@ -136,10 +135,10 @@ export default function Termo() {
         <br />
         <p>
           <span>
-            O Café Delícia Creme não analisou todos os sites vinculados ao seu site e não é responsável
-            pelo conteúdo de nenhum site vinculado. A inclusão de qualquer link não implica endosso
-            por Café Delícia Creme do site. O uso de qualquer site vinculado é por conta e risco do
-            usuário.
+            O Café Delícia Creme não analisou todos os sites vinculados ao seu site e não é
+            responsável pelo conteúdo de nenhum site vinculado. A inclusão de qualquer link não
+            implica endosso por Café Delícia Creme do site. O uso de qualquer site vinculado é por
+            conta e risco do usuário.
           </span>
         </p>
         <p>
@@ -152,9 +151,9 @@ export default function Termo() {
         <br />
         <p>
           <span>
-            O Café Delícia Creme pode revisar estes termos de serviço do site a qualquer momento, sem
-            aviso prévio. Ao usar este site, você concorda em ficar vinculado à versão atual desses
-            termos de serviço.
+            O Café Delícia Creme pode revisar estes termos de serviço do site a qualquer momento,
+            sem aviso prévio. Ao usar este site, você concorda em ficar vinculado à versão atual
+            desses termos de serviço.
           </span>
         </p>
         <br />

@@ -11,10 +11,9 @@ export default function Politica() {
       <div className={styles.content2}>
         <p>
           <span>
-            A sua privacidade é importante para nós. É política do Café Delícia Creme respeitar a sua
-            privacidade em relação a qualquer informação sua que possamos coletar no site{' '}
-            <a href='cafe-delicia-creme.vercel.app'>Café Delícia Creme</a>, e outros sites que possuímos e
-            operamos.
+            A sua privacidade é importante para nós. É política do Café Delícia Creme respeitar a
+            sua privacidade em relação a qualquer informação sua que possamos coletar no site Café
+            Delícia Creme, e outros sites que possuímos e operamos.
           </span>
         </p>
         <p>
